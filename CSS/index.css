@@ -1,0 +1,51 @@
+html{
+    font-size: 90%;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border-spacing: border-box;
+    
+}
+
+
+
+h1{
+    text-align: center;
+    color: rgb(80, 19, 224);
+    font-size: 2rem;
+    margin-top: 20%;
+}
+#logo{
+    height: 4rem;
+    width: 4rem;
+    border: .2rem solid black;
+    border-radius: 2.5rem;
+    
+}
+
+
+
+header{
+    background-color: rgb(34, 218, 156);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap:wrap;
+    font-size: 1rem;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(74, 11, 80);
+    font-size: 1.5rem;
+}
+a:hover{
+    background-color: rgb(188, 241, 27);
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
